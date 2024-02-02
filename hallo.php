@@ -3,7 +3,8 @@
 <body>
  
 <?php
-	echo "My first PHP script!";
+	echo "Bismillah";
+	echo "Hello world";
 ?>
 
 </body>
